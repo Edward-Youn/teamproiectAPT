@@ -74,7 +74,7 @@ def load_facility_data():
 
 # 메인 앱
 def main():
-    st.title("🏠 화성시 아파트 실거래가 분석 대시보드")
+    st.title("🏠 화성...뜰까? feat. Elon Musk")
     st.markdown("---")
     
     # 데이터 로드
